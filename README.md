@@ -163,7 +163,7 @@ Result-driven Full Stack lead with 10 years of extensive experience in developin
 
 ## Interests
 
-Guitar &bull; Cycling &bull; Gaming
+:guitar: Guitar &bull; :bicyclist: Cycling &bull; :video_game: Gaming
 
 ## Contact
 
